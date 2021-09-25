@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://rose-muskox-8lo2txxg.ws-us17.gitpod.io",
+        "address": "https://moccasin-mule-p7skfwuu.ws-us18.gitpod.io",
         "editor": {
             "mode": "preview",
             "agent": "gitpod",
@@ -11,7 +11,7 @@
         "configPath": "learn.json",
         "outputPath": ".learn/dist",
         "publicPath": "/preview",
-        "publicUrl": "https://3000-rose-muskox-8lo2txxg.ws-us17.gitpod.io",
+        "publicUrl": "https://3000-moccasin-mule-p7skfwuu.ws-us18.gitpod.io",
         "grading": "isolated",
         "exercisesPath": "./exercises",
         "webpackTemplate": null,
@@ -31,7 +31,7 @@
         },
         "translations": []
     },
-    "currentExercise": "01-Welcome",
+    "currentExercise": null,
     "language": "node",
     "title": "Learn Javascript Arrays and Loops Interactive",
     "repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
@@ -41,7 +41,7 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
-    "session": 7911391830684500000,
+    "session": 1749986912567216400,
     "exercises": [
         {
             "position": 0,
@@ -108,7 +108,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 2,
@@ -149,7 +149,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 3,
@@ -190,7 +190,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 4,
@@ -231,7 +231,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 5,
@@ -272,7 +272,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 6,
@@ -313,7 +313,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 7,
@@ -354,7 +354,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 8,
@@ -395,7 +395,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 9,
@@ -436,7 +436,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 10,
@@ -477,7 +477,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 11,
@@ -513,7 +513,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 12,
@@ -554,7 +554,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 13,
@@ -590,7 +590,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 14,
@@ -631,7 +631,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 15,
