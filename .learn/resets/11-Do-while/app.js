@@ -1,7 +1,6 @@
 let i = 20;
 do {
-    if (i%5===0){console.log(i+'!');
-} else { console.log(i);}
+    // Magic goes here;
     
     i--;
 } while (i > 0);

@@ -6,13 +6,15 @@ let counts = {};
 let newpar = par.toLowerCase();
 let array = Array.from(newpar);
 
-function contarLetras(array) {
-    var objeto = {}; 
-    for(var i in array){
-        objeto[array[i]] = ( objeto[array[i]] || 0 ) + 1; // Incrementamos el valor si el elemento ya existe
+
+/*for (let i = 0; i < array.length; i++) {
+    for (i in array) {
+        if (counts.hasOwnProperty(i)) {
+            counts{ i } ++;
+        } else {
+            counts{ i }=1;
+        }
     }
-    return objeto;
-}
+}*/
 
-
-console.log();
+console.log(counts)

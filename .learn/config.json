@@ -31,7 +31,7 @@
         },
         "translations": []
     },
-    "currentExercise": null,
+    "currentExercise": "17-The-for-loop",
     "language": "node",
     "title": "Learn Javascript Arrays and Loops Interactive",
     "repository": "https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial",
@@ -41,7 +41,7 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
-    "session": 1749986912567216400,
+    "session": 4868698817556683000,
     "exercises": [
         {
             "position": 0,
@@ -713,7 +713,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 17,
@@ -749,7 +749,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 18,
@@ -785,7 +785,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 19,
@@ -821,7 +821,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 20,
@@ -929,7 +929,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 23,
@@ -1006,7 +1006,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 25,
@@ -1017,7 +1017,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "exercises/14-Divide-and-Conquer/app.js",
+            "entry": "app.js",
             "title": "14-Divide-and-Conquer",
             "graded": true,
             "files": [
@@ -1042,7 +1042,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 26,
@@ -1078,7 +1078,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 27,
@@ -1089,7 +1089,7 @@
                 "us": "README.md"
             },
             "language": "node",
-            "entry": "exercises/16-Foreach-min-val/app.js",
+            "entry": "app.js",
             "title": "16-Foreach-min-val",
             "graded": true,
             "files": [
