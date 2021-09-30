@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 1,
+  "numFailedTests": 1,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": "\u001b[1m\u001b[31m  \u001b[1m● \u001b[1mThe output in the console should match the one in the instructions!\u001b[39m\u001b[22m\n\n    \u001b[2mexpect(\u001b[22m\u001b[31mjest.fn()\u001b[39m\u001b[2m).\u001b[22mtoHaveBeenCalledWith\u001b[2m(\u001b[22m\u001b[32m...expected\u001b[39m\u001b[2m)\u001b[22m\n\n    Expected: \u001b[32m[\"juan\", \"ana\", \"michelle\", \"stefany\", \"lucy\", \"barak\"]\u001b[39m\n    Received\n           1\n            \u001b[33m@@ -3,6 +3,7 @@\u001b[39m\n            \u001b[2m    \"ana\",\u001b[22m\n            \u001b[2m    \"michelle\",\u001b[22m\n            \u001b[2m    \"stefany\",\u001b[22m\n            \u001b[2m    \"lucy\",\u001b[22m\n            \u001b[2m    \"barak\",\u001b[22m\n            \u001b[31m+   \"emilio\",\u001b[39m\n            \u001b[2m  ]\u001b[22m,\n           2\n            \u001b[2m  Array [\u001b[22m\n            \u001b[32m-   \"juan\",\u001b[39m\n            \u001b[2m    \"ana\",\u001b[22m\n            \u001b[2m    \"michelle\",\u001b[22m\n            \u001b[31m+   \"daniella\",\u001b[39m\n            \u001b[2m    \"stefany\",\u001b[22m\n            \u001b[2m    \"lucy\",\u001b[22m\n            \u001b[2m    \"barak\",\u001b[22m\n            \u001b[31m+   \"emilio\",\u001b[39m\n            \u001b[2m  ]\u001b[22m,\n           3\n            \u001b[2m  Array [\u001b[22m\n            \u001b[2m    \"juan\",\u001b[22m\n            \u001b[2m    \"ana\",\u001b[22m\n            \u001b[2m    \"michelle\",\u001b[22m\n            \u001b[31m+   \"daniella\",\u001b[39m\n            \u001b[2m    \"stefany\",\u001b[22m\n            \u001b[2m    \"lucy\",\u001b[22m\n            \u001b[2m    \"barak\",\u001b[22m\n            \u001b[2m  ]\u001b[22m,\n\n    Number of calls: \u001b[31m3\u001b[39m\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 46 |\u001b[39m     \u001b[36mlet\u001b[39m _test3 \u001b[33m=\u001b[39m _deletePerson(\u001b[32m'emilio'\u001b[39m)\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 47 |\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[2m\u001b[39m\u001b[90m 48 |\u001b[39m     expect(console\u001b[33m.\u001b[39mlog)\u001b[33m.\u001b[39mtoHaveBeenCalledWith(_test1)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 49 |\u001b[39m     expect(console\u001b[33m.\u001b[39mlog)\u001b[33m.\u001b[39mtoHaveBeenCalledWith(_test2)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 50 |\u001b[39m     expect(console\u001b[33m.\u001b[39mlog)\u001b[33m.\u001b[39mtoHaveBeenCalledWith(_test3)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 51 |\u001b[39m   \u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2m\u001b[0m\u001b[36mexercises/12-Delete-element/test.js\u001b[39m\u001b[0m\u001b[2m:48:25)\u001b[2m\u001b[22m\n"
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function deletePerson should exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function deletePerson should return something",
+      "status": "passed"
+    },
+    {
+      "title": "console.log() function should have been called 3 times",
+      "status": "passed"
+    },
+    {
+      "title": "The output in the console should match the one in the instructions!",
+      "status": "failed"
+    }
+  ]
+}
